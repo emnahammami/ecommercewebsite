@@ -1,0 +1,43 @@
+body {
+  font-family: Verdana, sans-serif;
+ 
+}
+
+input {
+	
+	padding: 5px;
+	background-color: #fff;
+	width: 500px;
+	text-align: center;
+}
+
+form.button {
+	text-align: center;
+	width: 100%;
+}
+.button{
+	background-color: #fc7c7c;
+}
+a {
+	
+	
+}
+
+form { 
+	margin-left: 100px;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	text-align: center;
+
+	display: block;
+	width: 800px; 
+	margin: 20px;
+	
+	background-color: #243a6f; 
+	
+}
+span{
+	color: cornsilk;
+}
+
